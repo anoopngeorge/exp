@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EXP1/.mvn/wrapper"/>
+	<classpathentry kind="src" path="EXP1/src/main/java"/>
+	<classpathentry kind="src" path="EXP1/src/test/java"/>
+	<classpathentry kind="lib" path="EXP1/target/EXP-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="EXP1/target/classes"/>
+</classpath>
